@@ -1,0 +1,3 @@
+C:/Users/Ronald/Documents/ClionProjects/Ngoding/cmake-build-debug/CMakeFiles/Ngoding.dir
+C:/Users/Ronald/Documents/ClionProjects/Ngoding/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ronald/Documents/ClionProjects/Ngoding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Ngoding" targetName="Ngoding" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4682c1a7-8021-47ce-ba8a-6ea1e5dd74ba" name="Default" comment="" />
+    <ignored path="Ngoding.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Ngoding" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
+      <file leaf-file-name="B.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/B.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/C.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#36#108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="G.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/G.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <folding>
+                <element signature="e#417#446#0" expanded="true" />
+                <element signature="e#448#511#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="H.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/H.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <folding>
+                <element signature="e#75#459#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HuffmanCompression_Encode.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/HuffmanCompression_Encode.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1584">
+              <caret line="88" column="4" lean-forward="false" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#244#465#0" expanded="true" />
+                <element signature="e#491#590#0" expanded="true" />
+                <element signature="e#627#1085#0" expanded="true" />
+                <element signature="e#1087#2241#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="I.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/I.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#59#579#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="INC2013D.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oj/pandaoj/INC2013D.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NUM.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PenyisihanIDEAFUSE2017/NUM.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+              <folding>
+                <element signature="e#90#653#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SEQ.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PenyisihanIDEAFUSE2017/SEQ.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getnumb</find>
+      <find>getnu</find>
+      <find>get</find>
+      <find>getch</find>
+      <find>getchar</find>
+      <find>u</find>
+      <find>unlocke</find>
+      <find>unlocked</find>
+      <find>getchar_unlocked</find>
+      <find>&quot;null&quot;</find>
+      <find>ll</find>
+      <find>l</find>
+      <find>fn</find>
+      <find>%d</find>
+      <find>lld</find>
+      <find>pair&lt;int, int&gt;</find>
+      <find>getNumb</find>
+      <find>f</find>
+      <find>find</find>
+      <find>find_we</find>
+      <find>find_w</find>
+      <find>find_se</find>
+      <find>find_s</find>
+      <find>find_</find>
+      <find>findse</find>
+      <find>findset</find>
+      <find>gte</find>
+      <find>gt</find>
+      <find>main</find>
+      <find>sort</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>prev</replace>
+      <replace>ll</replace>
+      <replace>int</replace>
+      <replace>second</replace>
+      <replace>-&gt;</replace>
+      <replace>NULL</replace>
+      <replace>getchar</replace>
+      <replace>nullptr</replace>
+      <replace>a</replace>
+      <replace>lld</replace>
+      <replace>%lld</replace>
+      <replace>poii</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oj/pandaoj/INC2013E.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/RE1.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanIDEAFUSE2017/kaweleak.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj/verified/classical/CODERE3.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanIDEAFUSE2017/sequence.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanIDEAFUSE2017/SPE.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanIDEAFUSE2017/POW.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanIDEAFUSE2017/NUM.cpp" />
+        <option value="$PROJECT_DIR$/oj/codechef/COOK81/CANDY123.cpp" />
+        <option value="$PROJECT_DIR$/oj/codechef/COOK81/ABREPEAT.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj/verified/classical/BUSYMAN.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/MAFIA.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/MBEEWALK.cpp" />
+        <option value="$PROJECT_DIR$/testmafia.cpp" />
+        <option value="$PROJECT_DIR$/test.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/REPROAD.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/HARISH_PUZZLE.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/TRT.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/HYDRO.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/EXPEDI.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/FP.cpp" />
+        <option value="$PROJECT_DIR$/oj/toki/ECEPC-2014/A.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/SNGINT.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/INS14C.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/MCAMP.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/GERGOVIA.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/EUIASSEMBLY.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/SKYLINE2.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/NICEDAY.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/TSUNAMI.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/PLAYGAME.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/MLAND.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/SPRING.cpp" />
+        <option value="$PROJECT_DIR$/oj/spoj2017/FURYROAD.cpp" />
+        <option value="$PROJECT_DIR$/algorithms/HuffmanCode.cpp" />
+        <option value="$PROJECT_DIR$/algorithms/HuffmanCompression - Encode.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/output.roni" />
+        <option value="$PROJECT_DIR$/algorithms/HuffmanCompression_Encode.cpp" />
+        <option value="$PROJECT_DIR$/algorithms/HuffmanCompression_Decode.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/salma.txt" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/input.txt" />
+        <option value="$PROJECT_DIR$/algorithms/aj.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanIDEAFUSE2017/KAW.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanIDEAFUSE2017/SEQ.cpp" />
+        <option value="$PROJECT_DIR$/oj/pandaoj/INC2013D.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanCompfest9/H.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanCompfest9/I.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanCompfest9/C.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/PenyisihanCompfest9/B.cpp" />
+        <option value="$PROJECT_DIR$/PenyisihanCompfest9/G.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow analysisC/C++</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ngoding" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Ngoding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ngoding" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Ngoding" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ngoding" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Ngoding" type="462c0819:PsiDirectoryNode" />
+              <item name="PenyisihanCompfest9" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ronald\Documents\ClionProjects\Ngoding\oj" />
+      <recent name="C:\Users\Ronald\Documents\ClionProjects\Ngoding\oj\uvaoj" />
+      <recent name="C:\Users\Ronald\Documents\ClionProjects\Ngoding\algorithms" />
+      <recent name="C:\Users\Ronald\Documents\ClionProjects\Ngoding\cp\spoj\verified\classical" />
+      <recent name="C:\Users\Ronald\Documents\ClionProjects\Ngoding\cp\spoj" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Ngoding">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" singleton="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ngoding" TARGET_NAME="Ngoding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ngoding" RUN_TARGET_NAME="Ngoding">
+      <envs />
+    </configuration>
+    <configuration name="Ngoding" type="CMakeRunConfiguration" factoryName="Application" singleton="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ngoding" TARGET_NAME="Ngoding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ngoding" RUN_TARGET_NAME="Ngoding">
+      <envs />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ngoding" TARGET_NAME="Ngoding" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ngoding" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ngoding" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ngoding" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ngoding" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ngoding" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ngoding" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ngoding" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Ngoding" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Build All" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Ronald\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4682c1a7-8021-47ce-ba8a-6ea1e5dd74ba" name="Default" comment="" />
+      <created>1479396314039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479396314039</updated>
+      <workItem from="1479396318126" duration="7081000" />
+      <workItem from="1479672751979" duration="592000" />
+      <workItem from="1479717854200" duration="11668000" />
+      <workItem from="1479740542881" duration="2172000" />
+      <workItem from="1479783214578" duration="8082000" />
+      <workItem from="1479820746339" duration="15659000" />
+      <workItem from="1479882774856" duration="2082000" />
+      <workItem from="1479890392926" duration="5034000" />
+      <workItem from="1479898736345" duration="757000" />
+      <workItem from="1479899962450" duration="1346000" />
+      <workItem from="1479903526767" duration="837000" />
+      <workItem from="1479913564336" duration="3219000" />
+      <workItem from="1479944129365" duration="3427000" />
+      <workItem from="1479954600598" duration="2566000" />
+      <workItem from="1479966900681" duration="3689000" />
+      <workItem from="1479995065293" duration="12347000" />
+      <workItem from="1480172790921" duration="7235000" />
+      <workItem from="1480223254617" duration="3219000" />
+      <workItem from="1480301784227" duration="3407000" />
+      <workItem from="1480326949826" duration="13028000" />
+      <workItem from="1480408406746" duration="24355000" />
+      <workItem from="1480484076543" duration="718000" />
+      <workItem from="1480485231545" duration="58000" />
+      <workItem from="1480491745722" duration="1915000" />
+      <workItem from="1480568930507" duration="3563000" />
+      <workItem from="1480575024184" duration="12412000" />
+      <workItem from="1480598870480" duration="10528000" />
+      <workItem from="1480645112058" duration="1296000" />
+      <workItem from="1480652585733" duration="4008000" />
+      <workItem from="1480656949842" duration="5536000" />
+      <workItem from="1480683879823" duration="3048000" />
+      <workItem from="1480729223394" duration="3761000" />
+      <workItem from="1480872134456" duration="3157000" />
+      <workItem from="1480877637095" duration="27000" />
+      <workItem from="1481028805916" duration="232000" />
+      <workItem from="1481100143917" duration="4354000" />
+      <workItem from="1481122352705" duration="2757000" />
+      <workItem from="1481126196539" duration="712000" />
+      <workItem from="1481129497593" duration="7684000" />
+      <workItem from="1481164900898" duration="23145000" />
+      <workItem from="1481212666126" duration="9091000" />
+      <workItem from="1481222089343" duration="3623000" />
+      <workItem from="1481253505044" duration="1078000" />
+      <workItem from="1481282813557" duration="298000" />
+      <workItem from="1481511355500" duration="3086000" />
+      <workItem from="1481533160137" duration="797000" />
+      <workItem from="1481540048526" duration="601000" />
+      <workItem from="1481691108842" duration="977000" />
+      <workItem from="1481698548995" duration="3555000" />
+      <workItem from="1481702891988" duration="233000" />
+      <workItem from="1481752186862" duration="33000" />
+      <workItem from="1481772123970" duration="6593000" />
+      <workItem from="1482129274293" duration="3336000" />
+      <workItem from="1482147615480" duration="173000" />
+      <workItem from="1482258332502" duration="10734000" />
+      <workItem from="1482297969556" duration="24000" />
+      <workItem from="1482298033438" duration="591000" />
+      <workItem from="1482329695465" duration="4076000" />
+      <workItem from="1482377352110" duration="3913000" />
+      <workItem from="1482393172350" duration="14921000" />
+      <workItem from="1482410183839" duration="1996000" />
+      <workItem from="1482462383947" duration="1277000" />
+      <workItem from="1482464688331" duration="255000" />
+      <workItem from="1482522415308" duration="4943000" />
+      <workItem from="1482688342907" duration="4845000" />
+      <workItem from="1482748681057" duration="13322000" />
+      <workItem from="1482815518853" duration="3200000" />
+      <workItem from="1482824748543" duration="9529000" />
+      <workItem from="1483034186741" duration="2087000" />
+      <workItem from="1483180626462" duration="7000" />
+      <workItem from="1483961719638" duration="3586000" />
+      <workItem from="1484141364289" duration="1530000" />
+      <workItem from="1484350178032" duration="783000" />
+      <workItem from="1484352138902" duration="165000" />
+      <workItem from="1484833293818" duration="61000" />
+      <workItem from="1484864681277" duration="77000" />
+      <workItem from="1486373382251" duration="207000" />
+      <workItem from="1486653642234" duration="5807000" />
+      <workItem from="1486664995544" duration="745000" />
+      <workItem from="1486699864266" duration="1636000" />
+      <workItem from="1486731145124" duration="1459000" />
+      <workItem from="1486737792835" duration="1894000" />
+      <workItem from="1486984732340" duration="2536000" />
+      <workItem from="1486989739883" duration="1941000" />
+      <workItem from="1487063496904" duration="537000" />
+      <workItem from="1487166560745" duration="593000" />
+      <workItem from="1487230105549" duration="2200000" />
+      <workItem from="1487237358555" duration="7335000" />
+      <workItem from="1487263051601" duration="831000" />
+      <workItem from="1487303896739" duration="573000" />
+      <workItem from="1487336511007" duration="4121000" />
+      <workItem from="1487445401724" duration="1492000" />
+      <workItem from="1487493644423" duration="1980000" />
+      <workItem from="1487508584751" duration="1545000" />
+      <workItem from="1487511073599" duration="24000" />
+      <workItem from="1487529559455" duration="587000" />
+      <workItem from="1487556882186" duration="3611000" />
+      <workItem from="1487583282565" duration="11925000" />
+      <workItem from="1487650836523" duration="1168000" />
+      <workItem from="1487671670046" duration="5271000" />
+      <workItem from="1487687939193" duration="7943000" />
+      <workItem from="1487947207566" duration="8371000" />
+      <workItem from="1488208853383" duration="7371000" />
+      <workItem from="1488251922640" duration="3195000" />
+      <workItem from="1488359242712" duration="515000" />
+      <workItem from="1488380666789" duration="1768000" />
+      <workItem from="1488471284051" duration="1229000" />
+      <workItem from="1488547637505" duration="135000" />
+      <workItem from="1488703661590" duration="15104000" />
+      <workItem from="1488727562646" duration="2387000" />
+      <workItem from="1488794413823" duration="19684000" />
+      <workItem from="1488854197989" duration="9463000" />
+      <workItem from="1488867637083" duration="17812000" />
+      <workItem from="1488894790915" duration="1791000" />
+      <workItem from="1488904244231" duration="10037000" />
+      <workItem from="1488988125961" duration="2290000" />
+      <workItem from="1489029121346" duration="9829000" />
+      <workItem from="1489306687344" duration="6382000" />
+      <workItem from="1489333204637" duration="7424000" />
+      <workItem from="1489375101070" duration="4771000" />
+      <workItem from="1489427742946" duration="3857000" />
+      <workItem from="1489464606948" duration="599000" />
+      <workItem from="1489476492427" duration="1308000" />
+      <workItem from="1489486235630" duration="3219000" />
+      <workItem from="1489504338589" duration="2921000" />
+      <workItem from="1489719729890" duration="5341000" />
+      <workItem from="1489970721430" duration="592000" />
+      <workItem from="1489996992368" duration="8779000" />
+      <workItem from="1490029297239" duration="4157000" />
+      <workItem from="1490036099772" duration="2233000" />
+      <workItem from="1490062599360" duration="1007000" />
+      <workItem from="1490104097391" duration="2113000" />
+      <workItem from="1490175543994" duration="14596000" />
+      <workItem from="1490197566801" duration="1106000" />
+      <workItem from="1490241047031" duration="1965000" />
+      <workItem from="1490373761565" duration="112000" />
+      <workItem from="1490373882812" duration="372000" />
+      <workItem from="1490374275595" duration="1104000" />
+      <workItem from="1490445064536" duration="1270000" />
+      <workItem from="1490455813602" duration="3236000" />
+      <workItem from="1490535758233" duration="9741000" />
+      <workItem from="1490587841576" duration="2278000" />
+      <workItem from="1490592243366" duration="6143000" />
+      <workItem from="1490631967719" duration="5927000" />
+      <workItem from="1490641593449" duration="8482000" />
+      <workItem from="1490662932420" duration="649000" />
+      <workItem from="1490674057864" duration="2810000" />
+      <workItem from="1490688929980" duration="19798000" />
+      <workItem from="1490779024098" duration="595000" />
+      <workItem from="1490784081299" duration="9288000" />
+      <workItem from="1490841762697" duration="2456000" />
+      <workItem from="1490875576004" duration="25130000" />
+      <workItem from="1490962395934" duration="20936000" />
+      <workItem from="1491044610342" duration="6315000" />
+      <workItem from="1491098918727" duration="11243000" />
+      <workItem from="1491263451087" duration="2305000" />
+      <workItem from="1491274402881" duration="4772000" />
+      <workItem from="1492258862613" duration="5956000" />
+      <workItem from="1492368558226" duration="13090000" />
+      <workItem from="1492421456459" duration="5796000" />
+      <workItem from="1492435176767" duration="266000" />
+      <workItem from="1492484416713" duration="3302000" />
+      <workItem from="1492488456404" duration="2069000" />
+      <workItem from="1492881690234" duration="5050000" />
+      <workItem from="1492920796232" duration="6688000" />
+      <workItem from="1492930119476" duration="6286000" />
+      <workItem from="1492965161104" duration="3852000" />
+      <workItem from="1493089800266" duration="1221000" />
+      <workItem from="1493238367561" duration="4124000" />
+      <workItem from="1493398091175" duration="13164000" />
+      <workItem from="1493476773459" duration="2781000" />
+      <workItem from="1493517587807" duration="30000" />
+      <workItem from="1493542895939" duration="17609000" />
+      <workItem from="1493623523540" duration="1637000" />
+      <workItem from="1493649038375" duration="12014000" />
+      <workItem from="1493990668980" duration="11642000" />
+      <workItem from="1494229874364" duration="19837000" />
+      <workItem from="1494299620651" duration="685000" />
+      <workItem from="1494311780245" duration="1444000" />
+      <workItem from="1494313610244" duration="311000" />
+      <workItem from="1495357213090" duration="13113000" />
+      <workItem from="1495510260426" duration="6441000" />
+      <workItem from="1495534124978" duration="741000" />
+      <workItem from="1495787473367" duration="5653000" />
+      <workItem from="1495919334937" duration="5924000" />
+      <workItem from="1495943263021" duration="14481000" />
+      <workItem from="1495960374399" duration="3764000" />
+      <workItem from="1495966113807" duration="2504000" />
+      <workItem from="1496026240339" duration="1296000" />
+      <workItem from="1496036012497" duration="1606000" />
+      <workItem from="1496085064055" duration="865000" />
+      <workItem from="1496158991874" duration="1753000" />
+      <workItem from="1496199204938" duration="131000" />
+      <workItem from="1496199781413" duration="771000" />
+      <workItem from="1496331095451" duration="1551000" />
+      <workItem from="1496378785811" duration="987000" />
+      <workItem from="1496428253105" duration="1724000" />
+      <workItem from="1496484638497" duration="2864000" />
+      <workItem from="1496563629112" duration="2832000" />
+      <workItem from="1496608295020" duration="2059000" />
+      <workItem from="1502508492228" duration="7799000" />
+      <workItem from="1502634590732" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="950246000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31462586" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4234694" sideWeight="0.50818455" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="564" y="345" width="238" height="38" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35130435" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40778342" sideWeight="0.49181548" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3374126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4217687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="path.size ()" language="ObjectiveC" />
+        <watch expression="milkmans.size ()" language="ObjectiveC" />
+        <watch expression="pof.size ()" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/oj/spoj/spoj_ACMEG2C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/MBEEWALK.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/MAFIA.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testmafia.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/REPROAD.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/TRT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/HYDRO.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/bits/stl_pair.h" />
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/HARISH_PUZZLE.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/bits/char_traits.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/ios" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/iostream" />
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/FP.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/ostream" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/bits/stl_algobase.h" />
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/EXPEDI.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/MCAMP.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj/verified/classical/BUSYMAN.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/EUIASSEMBLY.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/INS14C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdio.h" />
+    <entry file="file://$PROJECT_DIR$/oj/toki/ECEPC-2014/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj/verified/classical/CLSLDR.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj/LOSTNSURVIVED.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="10" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/NICEDAY.cpp" />
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/SKYLINE2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/SNGINT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj/verified/tutorial/TRUETWIN.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/PLAYGAME.cpp" />
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/GERGOVIA.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/TSUNAMI.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/FURYROAD.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/MLAND.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="86" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/output.roni">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/HuffmanCompression_Decode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/spoj2017/SPRING.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/aj.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="272" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PenyisihanIDEAFUSE2017/KAW.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PenyisihanIDEAFUSE2017/SPE.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PenyisihanIDEAFUSE2017/NUM.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="e#90#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PenyisihanIDEAFUSE2017/SEQ.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oj/pandaoj/INC2013D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/HuffmanCompression_Encode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="88" column="4" lean-forward="false" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#244#465#0" expanded="true" />
+            <element signature="e#491#590#0" expanded="true" />
+            <element signature="e#627#1085#0" expanded="true" />
+            <element signature="e#1087#2241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/I.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#59#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#36#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/H.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding>
+            <element signature="e#75#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PenyisihanCompfest9/G.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#417#446#0" expanded="true" />
+            <element signature="e#448#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
